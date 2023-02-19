@@ -1,4 +1,4 @@
-# !/bin/bash
+ #!/bin/bash
 # include <stdio.h>
 / **
 * main - print a line of c code using puts
